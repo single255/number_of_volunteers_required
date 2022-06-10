@@ -2,7 +2,7 @@
 
 ## Summary
 
-This project is based on paper "Data-driven decision-making for the number of volunteers required in typhoon disasters ".
+This project is based on paper "Data -driven decision-making model for determining the number of volunteers required in typhoon disasters".
 
 ## Experimental environment
 
